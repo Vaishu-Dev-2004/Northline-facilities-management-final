@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" fill="none" role="img" aria-labelledby="northline-mark-title">
+  <title id="northline-mark-title">Northline FM architectural N mark</title>
+  <rect x="1" y="1" width="46" height="46" rx="12" fill="#173B38"/>
+  <path d="M9 16.5 24 9.5l15 7" stroke="#B7CA9B" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M11 35V18h5.2l15.6 14V18H37v17h-5.1L16.2 21.2V35z" fill="#F7F7F2"/>
+  <path d="M8.5 39h31" stroke="#D2A36B" stroke-width="1.8" stroke-linecap="round"/>
+  <circle cx="39" cy="10" r="1.8" fill="#D2A36B"/>
+</svg>

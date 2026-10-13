@@ -1,0 +1,22 @@
+{
+  "nav.services": "Services",
+  "nav.about": "About",
+  "nav.industries": "Industries",
+  "nav.insights": "Blog",
+  "nav.contact": "Contact",
+  "nav.login": "Login",
+  "nav.dashboard": "Dashboard",
+  "nav.request": "Request a Service",
+  "hero.eyebrow": "Integrated facilities management · India",
+  "hero.title": "Spaces that work better. People who make it happen.",
+  "hero.body": "Technical maintenance, building systems and workplace services for Indian businesses—coordinated by one accountable operations partner across South India.",
+  "action.explore": "Explore our services",
+  "action.contact": "Talk to our team",
+  "dashboard.title": "Operations overview",
+  "dashboard.orders": "Work orders",
+  "dashboard.properties": "Properties",
+  "dashboard.technicians": "Technicians",
+  "common.search": "Search",
+  "common.language": "Language",
+  "nav.pricing": "Pricing"
+}

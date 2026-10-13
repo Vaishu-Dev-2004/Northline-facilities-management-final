@@ -1,0 +1,22 @@
+{
+  "nav.services": "الخدمات",
+  "nav.about": "من نحن",
+  "nav.industries": "القطاعات",
+  "nav.insights": "المدونة",
+  "nav.contact": "اتصل بنا",
+  "nav.login": "دخول",
+  "nav.dashboard": "لوحة المعلومات",
+  "nav.request": "اطلب خدمة",
+  "hero.eyebrow": "إدارة مرافق مدروسة",
+  "hero.title": "مساحات تعمل بشكل أفضل. وأشخاص يحققون ذلك.",
+  "hero.body": "صيانة متكاملة وأنظمة مبانٍ وخدمات عمل تُدار بعناية ووضوح.",
+  "action.explore": "اكتشف خدماتنا",
+  "action.contact": "تواصل مع فريقنا",
+  "dashboard.title": "نظرة عامة على العمليات",
+  "dashboard.orders": "أوامر العمل",
+  "dashboard.properties": "العقارات",
+  "dashboard.technicians": "الفنيون",
+  "common.search": "بحث",
+  "common.language": "اللغة",
+  "nav.pricing": "الأسعار"
+}

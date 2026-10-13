@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none" role="img" aria-labelledby="favicon-title">
+  <title id="favicon-title">Northline FM</title>
+  <rect x="1" y="1" width="62" height="62" rx="16" fill="#173B38"/>
+  <path d="M12 22 32 12l20 10" stroke="#B7CA9B" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M15 47V24h7l20 18V24h7v23h-7L22 29v18z" fill="#F7F7F2"/>
+  <path d="M11 53h42" stroke="#D2A36B" stroke-width="2.4" stroke-linecap="round"/>
+  <circle cx="52" cy="13" r="2.5" fill="#D2A36B"/>
+</svg>

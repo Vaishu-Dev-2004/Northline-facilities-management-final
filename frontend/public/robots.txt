@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://northlinefm.example/sitemap.xml

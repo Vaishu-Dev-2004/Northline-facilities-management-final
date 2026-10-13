@@ -1,0 +1,22 @@
+{
+  "nav.services": "שירותים",
+  "nav.about": "אודות",
+  "nav.industries": "ענפים",
+  "nav.insights": "בלוג",
+  "nav.contact": "יצירת קשר",
+  "nav.login": "התחברות",
+  "nav.dashboard": "לוח בקרה",
+  "nav.request": "בקשת שירות",
+  "hero.eyebrow": "ניהול מתקנים בתשומת לב",
+  "hero.title": "מרחבים שעובדים טוב יותר. אנשים שגורמים לזה לקרות.",
+  "hero.body": "תחזוקה משולבת, מערכות מבנים ושירותי סביבת עבודה, בניהול מוקפד ושקוף.",
+  "action.explore": "לגלות את השירותים שלנו",
+  "action.contact": "לדבר עם הצוות שלנו",
+  "dashboard.title": "סקירת תפעול",
+  "dashboard.orders": "קריאות שירות",
+  "dashboard.properties": "נכסים",
+  "dashboard.technicians": "טכנאים",
+  "common.search": "חיפוש",
+  "common.language": "שפה",
+  "nav.pricing": "תמחור"
+}
